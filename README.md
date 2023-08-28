@@ -13,8 +13,8 @@ The aim of the game is to get the highest score possible, here's an overview of 
 - The game will get exponentially faster the longer you survive.
 - Try to beat my high score of 64! :)
 
-![](assets/fungi-frog-maze.png)
-----------------------------------------------------------------------
+![](assets/TLoZ-LinksEscape.png)
+```
                             ██████████                          
                         ████▒▒▒▒▒▒▒▒▒▒████                      
                       ██▒▒▒▒░░░░░░░░▒▒▒▒▒▒████      ██          
@@ -57,7 +57,8 @@ The aim of the game is to get the highest score possible, here's an overview of 
         ██████████████████            ████████████              
         ██▓▓░░░░▓▓████████            ████▓▓░░░░▓▓██            
         ████▓▓▓▓██████████            ██████▓▓▓▓████            
-        ██████████████████              ████████████            
+        ██████████████████              ████████████       
+```
         
 
 ## Template Quickstart 
