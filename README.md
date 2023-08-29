@@ -2,7 +2,7 @@
 
 This repository includes the open-source code for my game TLoZ: Link's Escape programmed using [Sprig](https://github.com/hackclub/sprig/), an open source game console, web-based game editor, and hardware development kit. This also works as a template for you to implement your own games.
 
-- [TLoZ-LinksEscape (sprig gallery)](https://sprig.hackclub.com/gallery/fungi-frog-maze)
+- [TLoZ-LinksEscape (sprig gallery)](https://sprig.hackclub.com/gallery/The_Legend_of_Zelda-Links_Escape)
 - [TLoZ-LinksEscape (itch.io)](https://itzhex.itch.io/the-legend-of-zelda-links-escape)
 
 The aim of the game is to get the highest score possible, here's an overview of the mechanics:
