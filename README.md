@@ -11,7 +11,9 @@ The aim of the game is to get the highest score possible, here's an overview of 
 - Sometimes there will be Lynel instead of a Moblin, they run fast, so be ready!
 - If you see an enemy briefly change colour when it spawns in, then it's going to jump, so don't try to jump over it.
 - The game will get exponentially faster the longer you survive.
-- Try to beat my high score of 64! :)
+- Link slowy gets further and further away from Gannon's Castle and closer to his house.
+- However, when he get's there, something's not quite right...
+- Try to beat my high score of 308! :)
 
 ![](assets/TLoZ-LinksEscape.png)
 ```
