@@ -24,9 +24,6 @@ let t9 = 36
 let tm = 4
 
 
-
-
-
 const player = "p"
 
 const ground = "g"
