@@ -1,27 +1,27 @@
 // @name: The Legend of Zelda: Link's Escape
 // @author: ItzHex
 
-let t1 = 1
-let t2 = 2
-let t3 = 3
-let t4 = 4
-let t5 = 5
-let t6 = 6
-let t7 = 7
-let t8 = 8
-let t9 = 9
-let tm = 1
+// let t1 = 1
+// let t2 = 2
+// let t3 = 3
+// let t4 = 4
+// let t5 = 5
+// let t6 = 6
+// let t7 = 7
+// let t8 = 8
+// let t9 = 9
+// let tm = 1
 // UNCOMMENT THE ABOVE VARIABLES AND COMMENT OUT THE BELOW VARIABLES TO QUICKLY TEST OUT THE CASTLE MOVEMENT AND BOSS FIGHT
-// let t1 = 4
-// let t2 = 8
-// let t3 = 12
-// let t4 = 16
-// let t5 = 20
-// let t6 = 24
-// let t7 = 28
-// let t8 = 32
-// let t9 = 36
-// let tm = 4
+let t1 = 4
+let t2 = 8
+let t3 = 12
+let t4 = 16
+let t5 = 20
+let t6 = 24
+let t7 = 28
+let t8 = 32
+let t9 = 36
+let tm = 4
 
 
 
